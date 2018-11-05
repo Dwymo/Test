@@ -1,0 +1,9 @@
+C:\Users\david\source\repos\QueryLibrary\QueryLibrary\bin\Debug\QueryLibrary.exe.config
+C:\Users\david\source\repos\QueryLibrary\QueryLibrary\bin\Debug\QueryLibrary.exe
+C:\Users\david\source\repos\QueryLibrary\QueryLibrary\bin\Debug\QueryLibrary.pdb
+C:\Users\david\source\repos\QueryLibrary\QueryLibrary\obj\Debug\QueryLibrary.csprojAssemblyReference.cache
+C:\Users\david\source\repos\QueryLibrary\QueryLibrary\obj\Debug\QueryLibrary.Properties.Resources.resources
+C:\Users\david\source\repos\QueryLibrary\QueryLibrary\obj\Debug\QueryLibrary.csproj.GenerateResource.cache
+C:\Users\david\source\repos\QueryLibrary\QueryLibrary\obj\Debug\QueryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\QueryLibrary\QueryLibrary\obj\Debug\QueryLibrary.exe
+C:\Users\david\source\repos\QueryLibrary\QueryLibrary\obj\Debug\QueryLibrary.pdb
